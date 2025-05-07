@@ -3,13 +3,13 @@ import streamlit as st
 
 # --- Page Configuration (Optional but Recommended) ---
 st.set_page_config(
-    page_title="Kiosco App - Login",
+    page_title="App Orthopedics",
     page_icon="🛒",
     layout="centered" # "wide" or "centered"
 )
 
 # --- Main Application ---
-st.title("App")
+st.title("App Orthopedics")
 
 
 # Check if the user is already logged in (using session state)
